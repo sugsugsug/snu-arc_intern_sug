@@ -1,0 +1,7 @@
+Command exited with non-zero status 1
+real 1.64
+user 0.01
+sys 0.01
+real 103.62
+user 1037.01
+sys 96.15
